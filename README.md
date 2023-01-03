@@ -82,3 +82,11 @@ CAYENNE_IN(3)
 ```
 
 ## Hasil
+
+![App Screenshot](https://github.com/sariwhyu/TugasNo1/blob/main/20221228_124610.jpg)
+
+![App Screenshot](https://github.com/sariwhyu/TugasNo1/blob/main/Screenshot%20(38).png)
+
+![App Screenshot](https://github.com/sariwhyu/TugasNo1/blob/main/Screenshot%20(40).png)
+
+![App Screenshot](https://github.com/sariwhyu/TugasNo1/blob/main/Screenshot%20(41).png)
